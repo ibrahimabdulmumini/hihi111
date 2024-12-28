@@ -8,5 +8,5 @@ package jsp.examples.oop;
  *
  */
 public class Contanst {
-	public final static String MAX_SPEED = "2000";
+	public final static String MAX_SPEED = "2000";214
 }
