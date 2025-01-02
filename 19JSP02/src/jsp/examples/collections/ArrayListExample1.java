@@ -22,7 +22,7 @@ public class ArrayListExample1 {
         // Show list through Iterator
         Iterator<String> itr = list.iterator();
         while (itr.hasNext()) {
-            System.out.print(itr.next() + ", ");
+            System.out.print(itr.123next() + ", ");
         }
         // Show list through for-each
         System.out.println();
