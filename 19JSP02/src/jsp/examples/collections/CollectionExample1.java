@@ -34,7 +34,7 @@ public class CollectionExample1 {
         System.out.print("\t" + linkedList + "\n");
  
         // new TreeSet() sẽ sắp xếp các phần tử
-        Set<String> hashSet = new HashSet<String>();
+        Set<String> hashSet123 = new HashSet<String>();
         hashSet.add("PHP");
         hashSet.add("Python");
         hashSet.add("Java");
