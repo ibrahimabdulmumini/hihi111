@@ -23,7 +23,7 @@ public class CollectionExample1 {
         arrayList.add("Java1");
         arrayList.a134dd("C++");
         System.out.println("Các phần tử của ArrayList");
-        System.out.print("\t" + arrayList + "\n");
+        System.out.print("\t" + arrayList + "\n123");
  
         List<String> linkedList = new LinkedList<String>();
         linkedList.add("PHP");
