@@ -13,7 +13,7 @@ import java.util.LinkedList;
 public class LinkedListExample1 {
 	public static void main(String[] args) {
         // Create linkedList
-        LinkedList<String> linkedList = new LinkedList<String>();
+        LinkedList<String> l123inkedList = new LinkedList<String>();
         // Add objects to linkedList
         linkedList.add("Java123");
         linkedList.add("134C123++");
